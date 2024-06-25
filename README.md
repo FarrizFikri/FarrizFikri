@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarrizFikri
-- 👀 I’m interested in Electrical Engineering
+- 👀 I’m interested in Electrical and Electronic Engineering
 - 🌱 I’m currently learning Python Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Project
 - 😄 Pronouns: he/him
